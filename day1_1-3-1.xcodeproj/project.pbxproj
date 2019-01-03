@@ -14,6 +14,8 @@
 		1D99E29021D9039F001750D5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D99E28E21D9039F001750D5 /* LaunchScreen.storyboard */; };
 		1D99E29B21D9039F001750D5 /* day1_1_3_1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D99E29A21D9039F001750D5 /* day1_1_3_1Tests.swift */; };
 		1D99E2A621D9039F001750D5 /* day1_1_3_1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D99E2A521D9039F001750D5 /* day1_1_3_1UITests.swift */; };
+		1D99E2B421D90438001750D5 /* SampleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D99E2B321D90438001750D5 /* SampleViewController.swift */; };
+		1D99E2B821D917F7001750D5 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D99E2B721D917F7001750D5 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		1D99E2A121D9039F001750D5 /* day1_1-3-1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "day1_1-3-1UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D99E2A521D9039F001750D5 /* day1_1_3_1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day1_1_3_1UITests.swift; sourceTree = "<group>"; };
 		1D99E2A721D9039F001750D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1D99E2B321D90438001750D5 /* SampleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleViewController.swift; sourceTree = "<group>"; };
+		1D99E2B721D917F7001750D5 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,9 +104,11 @@
 				1D99E28521D90398001750D5 /* AppDelegate.swift */,
 				1D99E28721D90398001750D5 /* ViewController.swift */,
 				1D99E28921D90398001750D5 /* Main.storyboard */,
+				1D99E2B321D90438001750D5 /* SampleViewController.swift */,
 				1D99E28C21D9039F001750D5 /* Assets.xcassets */,
 				1D99E28E21D9039F001750D5 /* LaunchScreen.storyboard */,
 				1D99E29121D9039F001750D5 /* Info.plist */,
+				1D99E2B721D917F7001750D5 /* SecondViewController.swift */,
 			);
 			path = "day1_1-3-1";
 			sourceTree = "<group>";
@@ -258,6 +264,8 @@
 			files = (
 				1D99E28821D90398001750D5 /* ViewController.swift in Sources */,
 				1D99E28621D90398001750D5 /* AppDelegate.swift in Sources */,
+				1D99E2B421D90438001750D5 /* SampleViewController.swift in Sources */,
+				1D99E2B821D917F7001750D5 /* SecondViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
